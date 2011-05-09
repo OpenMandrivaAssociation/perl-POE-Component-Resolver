@@ -1,5 +1,5 @@
 %define upstream_name    POE-Component-Resolver
-%define upstream_version 0.911
+%define upstream_version 0.912
 
 Name:       perl-%{upstream_name}
 Version:    %perl_convert_version %{upstream_version}
